@@ -19,15 +19,15 @@ We collect personal information that you voluntarily provide to us when register
 
 The personal information that we collect depends on the context of your interactions with us and the Apps, the choices you make and the products and features you use. The personal information we collect can include the following:
 
-### Publicly Available Personal Information:
+## Publicly Available Personal Information:
 We collect first name/nickname; email addresses; business email; phone numbers; and other similar data. 
 
-### Personal Information Provided by You:
+## Personal Information Provided by You:
 We collect financial information (payment app details, bank account details); and other similar data.
 
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
-### Information automatically collected:
+## Information automatically collected:
 
 Some information — such as IP address and/or device characteristics; transaction history; order history; transfer history — is collected automatically when you visit our Apps.
 
@@ -35,7 +35,7 @@ We automatically collect certain information when you visit, use or navigate the
 
 Online Identifiers. We collect applications; Radio Frequency Identification (RFID) tags; and other similar data.
 
-### Information collected through our Apps:
+## Information collected through our Apps:
 
 We may collect information regarding your mobile device, push notifications, when you use our apps.
 
