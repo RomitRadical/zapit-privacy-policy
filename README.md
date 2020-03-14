@@ -1,4 +1,4 @@
-# Zapit PRIVACY POLICY
+# PRIVACY POLICY
 
 Last updated March 15, 2020
 
